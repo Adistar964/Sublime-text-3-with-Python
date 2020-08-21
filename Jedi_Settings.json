@@ -3,8 +3,8 @@
 
     "settings": {
         // ...
-        "python_virtualenv": "Your_python_path",
-        "python_interpreter": "Your_python_path",
+        "python_virtualenv": "Your_python_path", // Replace it with your Python Path!!!!
+        "python_interpreter": "Your_python_path", // Replace it with your Python Path!!!!
 
         "python_package_paths": [
             "$home/.buildout/eggs",
