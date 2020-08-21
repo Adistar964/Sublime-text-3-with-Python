@@ -1,0 +1,15 @@
+{
+    // ...
+
+    "settings": {
+        // ...
+        "python_virtualenv": "Your_python_path",
+        "python_interpreter": "Your_python_path",
+
+        "python_package_paths": [
+            "$home/.buildout/eggs",
+            "$project_path/addons"
+        ]
+    },
+    "auto_complete_triggers": [{"selector": "source.python", "characters": "."}],
+}
